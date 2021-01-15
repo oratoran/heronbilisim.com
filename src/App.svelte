@@ -1,7 +1,3 @@
-<script>
-	export let name;
-</script>
-
 <main>
 	<img src="heron-bilisim-logo-1.png" alt="Heron Bilişim Logo">
 	<h1>Heron Bilişim</h1>
